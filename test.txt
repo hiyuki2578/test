@@ -1,2 +1,2 @@
-ぬるぽ ぬるぬるぬる NullPointerException
-NullPointerException
+ぬ
+n
