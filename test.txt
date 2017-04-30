@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 ぬるぽ NullPointerException
-=======
-ぬるぽ
 NullPointerException
->>>>>>> feature
